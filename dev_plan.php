@@ -3,11 +3,27 @@
 	<title>Development Plan</title>
 	<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 	<link href = "bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/css/bootstrap.css" rel = "stylesheet">
-<?php include 'testinclude.php'; ?>
+<?php include 'navbar.php'; ?>
 
 </head>
 <body>
 <!---------------------------->
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+    <li><a href="#">Action</a></li>
+    <li><a href="#">Another action</a></li>
+    <li><a href="#">Something else here</a></li>
+    <li><a href="#">Separated link</a></li>
+  </ul>
+</div>
+
+<form class="form-horizontal">
+<fieldset>
+
 <!-- Form Name -->
 <legend>Form Name</legend>
 
