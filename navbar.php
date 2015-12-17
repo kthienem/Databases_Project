@@ -33,7 +33,7 @@
             <li id="add_tournament"><a href="/cse30246/showerswithdata/projectdetails/Databases_Project/add_tournament.php">Add Tournament</a></li> 
 <!--            <li id="add_player"><a href="/cse30246/showerswithdata/projectdetails/Databases_Project/create_player.php">Add Player</a></li> -->
 	    <li id="select_schedule_games"><a href="/cse30246/showerswithdata/projectdetails/Databases_Project/select_schedule_games.php">Schedule Games</a></li>
-	 <!--   <li id="update_game_scores"><a href="/cse30246/showerswithdata/projectdetails/Databases_Project/update_scores.php">Update Scores</a></li> -->
+	    <li id="update_game_scores"><a href="/cse30246/showerswithdata/projectdetails/Databases_Project/update_scores.php">Update Scores</a></li>
             <!--<li role="separator" class="divider"></li>-->
           </ul>
         </li>
